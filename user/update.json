@@ -1,0 +1,12 @@
+{
+  "packageName": "com.example.bookapp.viewer",
+  "access": "viewer",
+  "versionCode": 6,
+  "versionName": "1.0-build6+e6e971f",
+  "apkUrl": "https://raw.githubusercontent.com/lavialireza/tazieh-updates/main/user/app-viewer-release.apk",
+  "sha256": "ac8892139a37d24414299e829a0c399205e13d6b42703cf27c5cf6ef1606f151",
+  "forceUpdate": false,
+  "minSupportedVersion": 0,
+  "releaseDate": "2026-09-30",
+  "releaseNotes": []
+}
