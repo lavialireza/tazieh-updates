@@ -1,12 +1,12 @@
 {
   "packageName": "com.example.bookapp",
   "access": "admin",
-  "versionCode": 6,
-  "versionName": "1.0-build6+e6e971f",
+  "versionCode": 7,
+  "versionName": "1.0-build7+408e3de",
   "apkUrl": "https://raw.githubusercontent.com/lavialireza/tazieh-updates/main/admin/app-admin-release.apk",
-  "sha256": "4936d303b65cae9857e8222dfd5f5e3ba34419717c6826131e423c184fb6e3e7",
+  "sha256": "9f127806c41e6dedcf39eefc760ac4c95a29f5ed649e11fd160a293427c6defe",
   "forceUpdate": false,
   "minSupportedVersion": 0,
-  "releaseDate": "2026-09-30",
+  "releaseDate": "2026-10-01",
   "releaseNotes": []
 }
