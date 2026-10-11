@@ -1,12 +1,14 @@
 {
   "packageName": "com.example.bookapp.viewer",
   "access": "viewer",
-  "versionCode": 7,
-  "versionName": "1.0-build7+408e3de",
-  "apkUrl": "https://raw.githubusercontent.com/lavialireza/tazieh-updates/main/user/app-viewer-release.apk",
-  "sha256": "bdcfd4c8965038d454fb1bca1ba89e013a5017580d5dd5e3690fd58ec27c090c",
+  "versionCode": 4,
+  "versionName": "1.0-build4+ce3f00a",
+  "apkUrl": "https://raw.githubusercontent.com/lavialireza/Tazieh-Updates/main/user/app-viewer-release.apk",
+  "sha256": "763fdf0dbc92fa95dd230a82b9ccbf17d54e6a86a5d75e6a54655ebb87545f55",
   "forceUpdate": false,
   "minSupportedVersion": 0,
-  "releaseDate": "2026-10-01",
-  "releaseNotes": []
+  "releaseDate": "2026-10-11",
+  "releaseNotes": [
+    "4"
+  ]
 }
